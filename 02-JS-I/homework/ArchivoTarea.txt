@@ -1,0 +1,7 @@
+Variables : son palabras que guardan un valor 
+Strings : son cadenas de texto, palabras entre comillas
+funciones : codigo que devuelve algo o hace algo particular
+argumentos: lo que usan las funciones para trabajar
+return: lo que retornan las funciones
+declaraciones if : si sucede una cosa se produce una cosa y si no otra
+valores booleanos true false : indican verdad o falsedad
