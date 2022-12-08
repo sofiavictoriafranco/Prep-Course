@@ -1,0 +1,4 @@
+for : es una palabra clave para crear un bucle de repeticion 
+&& : es un operador logico donde ambas partes tienen que ser true para que sea true
+|| : es un operador logico donde con que una parte sea true  alcanza para que sea true 
+! : es un operador logico usado para negar 
