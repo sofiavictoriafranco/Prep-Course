@@ -1,0 +1,4 @@
+for : key word para iniciar un bucle de repeticion incondicionado 
+&& : operador logico AND donde para ser true las dos condiciones tienen que ser true 
+|| : operador logico OR donde para ser true una condicion tiene que ser true 
+! : operador logico de negacion 
