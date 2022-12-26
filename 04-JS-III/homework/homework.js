@@ -229,10 +229,7 @@ function todosIguales(arreglo) {
 
   return true;
 
-
-  
-  
-} 
+}
 
 
 function mesesDelAño(array) {
