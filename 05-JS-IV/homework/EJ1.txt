@@ -1,0 +1,5 @@
+Objetos : variables que tienen propiedades 
+Propiedades : lo que tienen los objetos que tienen un nombre y un valor
+Métodos : funciones que son valor de una clave de una propiedad, funciones de una propiedad en un objeto
+Bucle for…in : bucle para propiedades en el objeto
+Notación de puntos vs notación de corchetes : la notacion de puntos es mas simple pero no permite diferenciar propiedades de variables como en la notacion con corchetes
