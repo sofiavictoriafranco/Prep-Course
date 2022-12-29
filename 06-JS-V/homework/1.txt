@@ -1,0 +1,2 @@
+prototype: prototipo de la clase donde estan los metodos de la clase o del objeto
+Constructors (de Clases): se guardan los atributos del objeto o de la clase
